@@ -1,8 +1,4 @@
-e standard Lorem Ipsum passage, used since the 1500s
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit,
- sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
- ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
- in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur
- sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
- anim id est laborum."
+Lorem ipsum dolor sit amet, redivider consectetur adipiscing elit.
+Proin lorem libero, fringilla ac sem volutpat, gravida laoreet lectus.
+Aliquam nec nibh quis velit mollis deified fermentum. Suspendisse a rutrum augue.
+Cras quis urna est. Fusce reviver congue, arcu et condimentum vulputate, radar enim lectus rhoncus nisl, sed hendrerit orci dui quis magna. Vivamus et odio a sapien consectetur aliquam at et lacus. Suspendisse cursus, nibh eget feugiat finibus, tellus nunc interdum massa, aliquam scelerisque dolor nulla et nibh. Sed vitae convallis sapien. In non mi sit amet felis pretium malesuada. Cras sed facilisis nibh. In hac habitasse platea dictumst. Ut placerat porta leo vitae imperdiet. Etiam sed nisi sapien. Nunc ut pellentesque nisl, vitae mattis ante. Mauris ornare, ipsum eu volutpat feugiat, nisl ex tempor odio, et dictum eros eros ut diam.
