@@ -1,15 +1,11 @@
-#- Counting words
-#- Counting sentences
-#- Counting lines
-#- Identifying palindromes
-#- Reading the text from a text file
+from tools.word_counter import counter
+from tools.sentence_counter import sent_count
+from tools.line_counter import line_count
+from tools.palindromes import palind
+from tools.reader import reader
 
-punc = ".", "!", "?", ":"
-x = input("Enter the text here: ")
-
-list = x.split()
-number_of_words = len(list)
-print(number_of_words)
-
-count = len([i for i in x if i in punc])
-print(count)
+counter()
+sent_count()
+line_count()
+palind()
+reader()
